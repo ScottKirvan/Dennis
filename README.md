@@ -1,6 +1,6 @@
 # Dennis - Unreal Static Mesh Asset
 
-> **Warning** This is an asset exported from Unreal Engine 5.2 Preview and uses the experimental Substance Shading Subsystem.  No compatibility, forwards or backwards should be assume.
+> **Warning** This is an asset exported from **Unreal Engine 5.2 Preview 1** and uses the experimental Substance Shading Subsystem.  No compatibility, forwards or backwards should be assumed. :-)
 
 ## License
 
