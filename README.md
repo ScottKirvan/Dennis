@@ -1,8 +1,6 @@
-# dennis - an Unreal Asset
+# Dennis - Unreal Static Mesh Asset
 
-Please ignore this repo for now, you're welcome to use it if you wish, but I'm just doing some githug/unreal testing.
-
-> **Warning** this is an asset exported from Unreal Engine 5.2 Preview and uses the experimental Substance Shading Subsustem
+> **Warning** This is an asset exported from Unreal Engine 5.2 Preview and uses the experimental Substance Shading Subsystem.  No compatibility, forwards or backwards should be assume.
 
 ## License
 
